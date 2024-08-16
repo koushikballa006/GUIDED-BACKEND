@@ -1,0 +1,4 @@
+node_modules
+http.rest
+.env
+package-lock.json
