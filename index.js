@@ -34,7 +34,6 @@ const corsOptions = {
     "http://192.168.100.214:5173",
     "http://localhost:5173",
     "https://student-online-community-frontend.vercel.app",
-    "https://guided-frontend.vercel.app"
   ],
   credentials: true,
 };
